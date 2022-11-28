@@ -1,0 +1,54 @@
+
+body {
+    background-image: url("a4f226c2569391f62af477c839ce0a4f-2447900222.gif");
+    background-size: cover;
+    font-family: 'VT323', Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(240,10,230);
+    text-shadow: 2px 0 rgb(0,255,255), 0 2px rgb(0,255,255), 3px 3px rgb(0,255,255);
+    height: 100vp;
+    
+    
+}
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 25px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'VT323', Ubuntu, Cantarell, 'Open Sans';
+    color: rgba(0,0,0,1);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    text-shadow: 1px 0 rgba(240,10,230,1), 0 1px rgba(240,10,230,1), 1px 1px rgba(240,10,230,1);
+    
+}
+
+#increment-btn {
+    background: rgba(0,255,225,0.4);
+    
+    
+    
+}
+
+#save-btn {
+    background: rgba(0,255,225,0.4);
+}
+
